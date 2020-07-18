@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Attendence Management System'
-copyright = '2020, APSSDC'
+copyright = '2020, NAVEEN'
 author = 'NAVEEN'
 
 # The full version, including alpha/beta/rc tags
